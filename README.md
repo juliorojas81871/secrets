@@ -1,9 +1,10 @@
 # Description:
 This code is a website that registers and login users. Once login, the user can see everyone else message and add their own (only one per user). 
+To register, the user can choose either Google or make their account. For those that make their account, the password will be saved using Passport. The website will also create a cookie using Passport to allow the user to go directly to secrets without needing to log in (if the type secrets are in the URL).
 If anyone want try this code, [please click at this link](https://secrets--app.herokuapp.com).
 
 # Tools:
-EJS, Node.JS, Node Express, Passport, Google Outh 2.0, MongoDB, Mongoose, HTML, CSS, JavaScript
+EJS, Node.JS, Node Express, Passport, Google Outh 2.0, MongoDB, Mongoose, HTML, CSS, JavaScript, bcript
 
 # Steps to get code to run:
 1. Open terminal
