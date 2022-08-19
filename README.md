@@ -3,7 +3,7 @@ This code is a website that registers and login users. Once login, the user can 
 If anyone want try this code, [please click at this link](https://secrets--app.herokuapp.com/secrets).
 
 # Tools:
-EJS, Node.JS, Node Express, Passport, Google Outh 2.0, MongoDB, Mongoose
+EJS, Node.JS, Node Express, Passport, Google Outh 2.0, MongoDB, Mongoose, HTML, CSS, JavaScript
 
 # Steps to get code to run:
 1. Open terminal
