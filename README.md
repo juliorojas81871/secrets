@@ -1,6 +1,6 @@
 # Description:
 This code is a website that registers and login users. Once login, the user can see everyone else message and add their own (only one per user). 
-If anyone want try this code, [please click at this link](https://secrets--app.herokuapp.com/secrets).
+If anyone want try this code, [please click at this link](https://secrets--app.herokuapp.com).
 
 # Tools:
 EJS, Node.JS, Node Express, Passport, Google Outh 2.0, MongoDB, Mongoose, HTML, CSS, JavaScript
